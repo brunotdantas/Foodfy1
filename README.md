@@ -6,12 +6,14 @@
 <img align="right" src="https://raw.githubusercontent.com/LauraBeatris/foodfy/master/.github/logo-chef.png" >
 
 
+
 <br>
 
 ## Sobre o Foodfy
 
-Na fase 01 do bootcamp o Foodfy é um site estático, totalmente desenvolvido com HTML, CSS e Javascript puro. 
-O Objetivo aqui é usar o conhecimento adquirido durante a fase 1 e 2 do bootcamp e montar o site. 
+<p>Na fase 01 do bootcamp o Foodfy é um site estático, totalmente desenvolvido com HTML, CSS e Javascript puro.</p>
+<p>O Objetivo aqui é usar o conhecimento adquirido durante a fase 1 e 2 do bootcamp e montar o site.</p>
+<p>O site está hospedado <a href="https://romantic-almeida-fce70d.netlify.app/index.html">aqui</a> </p>
 
 <br>
 
