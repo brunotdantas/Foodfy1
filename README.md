@@ -2,7 +2,6 @@
 
 <p>Site criado como desafio do <a href="https://github.com/rocketseat-education/bootcamp-launchbase-desafios-02/blob/master/desafios/02-foodfy.md">Launchbase bootcamp</a> da RocketSeat</p> 
 
-
 <img align="right" src="https://raw.githubusercontent.com/LauraBeatris/foodfy/master/.github/logo-chef.png" >
 
 
@@ -24,6 +23,9 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 - [HTML](https://devdocs.io/html/)
 - [CSS](https://devdocs.io/css/)
 - [JavaScript](https://devdocs.io/javascript/)
+
+
+![Alt Text](demo/demo.gif)
 
 <br>
 
